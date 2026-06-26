@@ -1,0 +1,28 @@
+src/main.rs
+  s_402d52f49ddf70::t_3d9c65d63d079d 1-32,34-85
+  h_ce3af1b6c4cb1b 33,86
+Cargo.toml
+  s_402d52f49ddf70::t_efec431ccf6888 6-13
+  s_402d52f49ddf70::t_6247141d8b3e78 3-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "6e2ccfb6cf5fb0f8efa9fa9ebec465757e06517c",
+  "prompts": {},
+  "humans": {
+    "h_ce3af1b6c4cb1b": {
+      "author": "dawson.jia"
+    }
+  },
+  "sessions": {
+    "s_402d52f49ddf70": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e9526e5a-02dd-4687-9608-5a81b6da9682",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Dawson Jia <dawson.jia@bybit.com>"
+    }
+  }
+}
