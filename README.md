@@ -5,7 +5,7 @@ AI-powered shell command fixer. Type an approximate command, get the corrected v
 ## Install
 
 ```bash
-cargo install cmdi
+cargo install cmd-infer
 ```
 
 ## Usage
