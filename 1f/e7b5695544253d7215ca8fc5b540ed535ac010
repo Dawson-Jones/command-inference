@@ -1,0 +1,23 @@
+README.md
+  s_402d52f49ddf70::t_c1ab8c834bb51a 1-34
+Cargo.toml
+  s_402d52f49ddf70::t_427d4b99c02a1e 2,5-10
+LICENSE
+  s_402d52f49ddf70::t_58868a2d7b5013 1-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "1fe7b5695544253d7215ca8fc5b540ed535ac010",
+  "prompts": {},
+  "sessions": {
+    "s_402d52f49ddf70": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e9526e5a-02dd-4687-9608-5a81b6da9682",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Dawson Jia <dawson.jia@bybit.com>"
+    }
+  }
+}
