@@ -1,0 +1,19 @@
+README.md
+  s_402d52f49ddf70::t_9a34e783ad4fe9 8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "328bf1e6f7795dcc993086834205f7053f1c360d",
+  "prompts": {},
+  "sessions": {
+    "s_402d52f49ddf70": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e9526e5a-02dd-4687-9608-5a81b6da9682",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Dawson Jia <dawson.jia@bybit.com>"
+    }
+  }
+}
