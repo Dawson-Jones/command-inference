@@ -1,11 +1,13 @@
 [package]
-name = "cmd_inference"
+name = "cmdi"
 version = "0.1.0"
 edition = "2024"
-
-[[bin]]
-name = "cmdi"
-path = "src/main.rs"
+description = "AI-powered shell command fixer using DeepSeek"
+license = "MIT"
+repository = "https://github.com/patchescamerababy/cmdi"
+readme = "README.md"
+keywords = ["cli", "ai", "shell", "command", "deepseek"]
+categories = ["command-line-utilities"]
 
 [dependencies]
 reqwest = { version = "0.12", features = ["json", "blocking"] }
